@@ -1,0 +1,33 @@
+html {
+    background-image: url('https://wallpapercat.com/w/full/4/e/a/33262-3376x1899-desktop-hd-star-wars-background.jpg');
+    background-size: cover;    
+    background-attachment: fixed; 
+    width: 100%;
+    height: 100%;
+    margin: 0;                    
+    padding: 0;     
+    color: white;
+}
+
+
+head, body{
+  margin-top: 10px;
+  width: 70%;
+  padding: 10px;
+  background-color: transparent;
+  color: white;
+  
+}
+
+textarea{
+    margin-top: 5px;
+    background-color: transparent;
+    color: white;
+    border: none;
+}
+
+ul{
+    list-style: none;
+   margin-left: 1px;
+   padding-left: 1em;
+}
